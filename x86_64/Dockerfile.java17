@@ -3,7 +3,7 @@ FROM scratch
 ADD 0cff4522f1fdc4b0571ca2d14a6c52525bcfa8de71caedcf5b9a45a3696d279e.tar.xz /
 ADD 1ad022d0dc48d07f6f0ddebfb57c250c239a550cc0441160a6ed27a643b16a4b.tar.xz /
 ADD 3a2a62562147d19a058ddce7262c1afe512f1ef4b9a5c435edd33116252bfe2a.tar.xz /
-ADD 7782a583d565a337d0610534e2b571fda9086e10fcced168f72ef73e3f747cd2.tar.xz /
+ADD jdk-17.tar.xz /
 ADD 812bd4a5d68e4cf4d28bd0ecfe070dd191f87670b55aaccd8c12af2f0143e558.tar.xz /
 ADD c278cd86195128f3fe585a5131c5f021300b1fad8540cb95aad09b7e41daf026.tar.xz /
 
